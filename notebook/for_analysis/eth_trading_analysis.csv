@@ -1,0 +1,13 @@
+Crypto,Timeframe,Metric,Sample_Size,Median_3Class,Median_4Class,Median_Diff,Median_Diff_%,Win_Rate_4Class_%,Cohen_D,Effect_Size,P_Value,P_Adjusted,Stat_Sig,Practical_Sig,Winner
+ETH,1D,loss_count,80,164.5,189.5,-25.0,-15.2,15.0,-0.679,Medium,4.215e-10,8.430e-10,✓,✗,3-Class
+ETH,1D,loss_mean,80,0.0674,0.0589,0.0085,12.6,53.8,0.225,Small,1.571e-01,2.095e-01,✗,✗,4-Class
+ETH,1D,transaction,80,375.5,412.0,-36.5,-9.72,95.0,-0.805,Large,3.491e-14,1.397e-13,✓,✓,4-Class
+ETH,1D,ratio,80,0.4594,0.4598,-0.0004,-0.08,42.5,-0.011,Negligible,5.173e-01,5.173e-01,✗,✗,3-Class
+ETH,4H,loss_count,80,27.5,113.0,-85.5,-310.91,2.5,-0.823,Large,1.307e-13,2.615e-13,✓,✗,3-Class
+ETH,4H,loss_mean,80,0.0312,0.0324,-0.0012,-3.68,46.2,0.039,Negligible,6.524e-01,6.524e-01,✗,✗,3-Class
+ETH,4H,transaction,80,78.0,373.5,-295.5,-378.85,91.2,-0.935,Large,6.591e-14,2.615e-13,✓,✓,4-Class
+ETH,4H,ratio,80,0.4286,0.4315,-0.0029,-0.67,38.8,-0.099,Negligible,2.701e-01,3.602e-01,✗,✗,3-Class
+ETH,30M,loss_count,80,11.5,19.0,-7.5,-65.22,13.8,-0.492,Small,3.608e-10,7.216e-10,✓,✗,3-Class
+ETH,30M,loss_mean,80,0.0173,0.0181,-0.0008,-4.82,42.5,-0.11,Negligible,4.774e-01,4.774e-01,✗,✗,3-Class
+ETH,30M,transaction,80,40.0,69.0,-29.0,-72.5,83.8,-0.545,Medium,2.563e-12,1.025e-11,✓,✓,4-Class
+ETH,30M,ratio,80,0.3269,0.3797,-0.0527,-16.13,40.0,-0.048,Negligible,2.311e-01,3.081e-01,✗,✗,3-Class

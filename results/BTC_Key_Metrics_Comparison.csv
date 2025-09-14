@@ -1,0 +1,4 @@
+Asset,Timeframe,Best_Approach,Best_CV,Best_Loss_Ratio,Best_Risk_Score,Improvement_Level,Statistical_Significance
+BTC,1D,4-Class,0.331488937365425,0.36580620313201073,70,40,Not Significant
+BTC,4H,4-Class,0.26493381161462964,0.42948980321815616,70,40,Not Significant
+BTC,30M,4-Class,0.21097506445729486,0.43179496821578184,70,40,Not Significant

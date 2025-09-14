@@ -1,0 +1,14 @@
+  crypto timeframe  training_size           
+0    btc        1d    2046            
+1    btc        4h    12442          
+2    btc       30m     99463         
+3    eth        1d     1867         
+4    eth        4h    11173          
+5    eth       30m    89526          
+6    bnb        1d    1839          
+7    bnb        4h    11201          
+8    bnb       30m    89524          
+
+bnb, 2020-08-01, 2025-09-10
+btc, 2020-01-01, 2025-09-04
+eth, 2020-08-01, 2025-09-10

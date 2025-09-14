@@ -1,0 +1,13 @@
+Crypto,Timeframe,Metric,Sample_Size,Median_3Class,Median_4Class,Median_Diff,Median_Diff_%,Win_Rate_4Class_%,Cohen_D,Effect_Size,P_Value,P_Adjusted,Stat_Sig,Practical_Sig,Winner
+BNB,1D,loss_count,80,101.0,156.0,-55.0,-54.46,16.2,-0.893,Large,3.375e-11,6.751e-11,✓,✗,3-Class
+BNB,1D,loss_mean,80,0.0479,0.0444,0.0036,7.43,46.2,0.031,Negligible,4.689e-01,5.584e-01,✗,✗,4-Class
+BNB,1D,transaction,80,263.0,324.0,-61.0,-23.19,95.0,-1.082,Large,7.910e-14,3.164e-13,✓,✓,4-Class
+BNB,1D,ratio,80,0.5145,0.4986,0.0158,3.08,47.5,-0.072,Negligible,5.584e-01,5.584e-01,✗,✗,4-Class
+BNB,4H,loss_count,80,410.5,159.5,251.0,61.14,83.8,1.011,Large,3.719e-12,4.959e-12,✓,✓,4-Class
+BNB,4H,loss_mean,80,0.0244,0.0453,-0.0208,-85.16,1.2,-2.111,Large,1.189e-14,4.756e-14,✓,✗,3-Class
+BNB,4H,transaction,80,946.5,341.5,605.0,63.92,15.0,1.115,Large,7.090e-13,1.418e-12,✓,✗,3-Class
+BNB,4H,ratio,80,0.4785,0.504,-0.0255,-5.33,36.2,-0.269,Small,3.204e-02,3.204e-02,✓,✗,3-Class
+BNB,30M,loss_count,80,523.5,7.5,516.0,98.57,100.0,0.762,Medium,7.846e-15,1.570e-14,✓,✓,4-Class
+BNB,30M,loss_mean,80,0.0138,0.0209,-0.0071,-51.84,41.2,-0.132,Negligible,2.305e-01,2.305e-01,✗,✗,3-Class
+BNB,30M,transaction,80,1406.0,18.5,1387.5,98.68,0.0,0.787,Medium,7.850e-15,1.570e-14,✓,✗,3-Class
+BNB,30M,ratio,80,0.4259,0.2582,0.1677,39.37,83.8,0.779,Medium,2.251e-09,3.001e-09,✓,✓,4-Class

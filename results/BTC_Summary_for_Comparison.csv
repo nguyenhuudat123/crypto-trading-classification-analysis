@@ -1,0 +1,4 @@
+Asset,Timeframe,Analysis_Date,Mean_Loss_Ratio_3Class,SD_Ratio_3Class,CV_3Class,Mean_Loss_3Class,Risk_Score_3Class,Good_Models_3Class,Mean_Loss_Ratio_4Class,SD_Ratio_4Class,CV_4Class,Mean_Loss_4Class,Risk_Score_4Class,Good_Models_4Class,Winner,Score_Difference,CV_Improvement_Pct,SD_Improvement_Pct,Ratio_Improvement_Pct,T_Test_P_Value,F_Test_P_Value,Is_Significant,Experiments_3Class,Experiments_4Class
+BTC,1D,2025-09-12,0.3658,0.1653,0.452,0.0416,30,24,0.4099,0.1359,0.3315,0.0434,70,18,4-Class,40,26.66,17.81,-12.07,0.067033,0.083157,FALSE,80,80
+BTC,4H,2025-09-12,0.4295,0.1577,0.3671,0.0221,30,18,0.4396,0.1165,0.2649,0.0204,70,15,4-Class,40,27.83,26.13,-2.36,0.644327,0.007748,FALSE,80,80
+BTC,30M,2025-09-12,0.4318,0.1189,0.2753,0.0103,30,11,0.4379,0.0924,0.211,0.0096,70,5,4-Class,40,23.37,22.28,-1.42,0.715537,0.026283,FALSE,80,80
